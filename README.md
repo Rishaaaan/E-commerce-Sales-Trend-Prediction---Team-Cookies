@@ -1,6 +1,6 @@
 # E-commerce-Sales-Trend-Prediction---Team-Cookies
 This project analyzes multi-platform e-commerce sales data to predict sales trends and provide business insights. The analysis covers data from Amazon, Flipkart, Myntra, Paytm, and other major Indian e-commerce platforms.
-
+Kaggle notebook link: [E-commerce Sales Trend Prediction - Team Cookies Notebook](https://www.kaggle.com/code/rishangupta/e-commerce-sales-trend-prediction-team-cookies)
 # E-commerce Sales Trend Prediction
 
 ## 📊 Project Overview
